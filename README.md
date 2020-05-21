@@ -1,4 +1,4 @@
-# cssreset.min
+# cssreset
 Description: Modern CSS Reset for All Browsers and Mobile Devices  
 Version: 5.6.2
 Copyright: 2020 Somethumb Company LLC. All rights reserved.  
