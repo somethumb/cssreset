@@ -120,7 +120,8 @@ strong, b {
   font-weight: 700
 }
 i, em {
-  font-weight: inherit
+  font-weight: inherit;
+  font-style: italic
 }
 svg {
   position: relative
