@@ -25,9 +25,9 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 body {
   overflow-wrap: normal;
   word-break: keep-all;
-  -webkit-hyphens: manual;
-  -ms-hyphens: manual;
-  hyphens: manual
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, main, section {
   display: block
