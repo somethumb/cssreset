@@ -1,6 +1,6 @@
 @charset "utf-8";
 /*
-Somethumb v5.7.3
+Somethumb v5.7.4
 Copyright 2020 Somethumb Company LLC. All rights reserved.
 Based on: html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/)
 */
@@ -93,7 +93,6 @@ textarea, select, input, button, input[type="text"], input[type="password"], inp
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  -webkit-appearance: none;
   -webkit-border-radius: 0px;
   border-radius: 0
 }
@@ -103,6 +102,11 @@ input[type=number] {
 input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0
+}
+button, input[type="button"], input[type="submit"] {
+  -webkit-appearance: none;
+  -webkit-border-radius: 0px;
+  border-radius: 0
 }
 *:-moz-placeholder, *::-moz-placeholder {
   opacity: 1;
