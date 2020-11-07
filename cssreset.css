@@ -1,6 +1,6 @@
 @charset "utf-8";
 /*
-Somethumb v5.7.4
+Somethumb v5.7.5
 Copyright 2020 Somethumb Company LLC. All rights reserved.
 Based on: html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/)
 */
@@ -107,10 +107,6 @@ button, input[type="button"], input[type="submit"] {
   -webkit-appearance: none;
   -webkit-border-radius: 0px;
   border-radius: 0
-}
-*:-moz-placeholder, *::-moz-placeholder {
-  opacity: 1;
-  filter: alpha(opacity=100)
 }
 :active {
   -moz-outline-style: none !important;
