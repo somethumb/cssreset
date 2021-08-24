@@ -1,6 +1,6 @@
 @charset "utf-8";
 /*
-Somethumb v5.7.6
+Somethumb v5.7.7
 Copyright 2020 Somethumb Company LLC. All rights reserved.
 Based on: html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/)
 */
@@ -89,7 +89,6 @@ input[type=search] {
   box-sizing: content-box
 }
 textarea, select, input, button, input[type="color"], input[type="date"], input[type="datetime-local"], input[type="datetime"], input[type="month"], input[type="week"], input[type="time"], input[type="text"], input[type="password"], input[type="number"], input[type="button"], input[type="submit"], input[type="search"], input[type="tel"], input[type="email"], input[type="file"], input[type="url"] {
-  font-family: inherit;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
