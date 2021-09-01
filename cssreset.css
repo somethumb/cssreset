@@ -1,6 +1,6 @@
 @charset "utf-8";
 /*
-Somethumb v5.7.8
+Somethumb v5.7.9
 Copyright 2020 Somethumb Company LLC. All rights reserved.
 Based on: html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/)
 */
@@ -91,10 +91,7 @@ input[type=search] {
 textarea, select, input, button, input[type="color"], input[type="date"], input[type="datetime-local"], input[type="datetime"], input[type="month"], input[type="week"], input[type="time"], input[type="text"], input[type="password"], input[type="number"], input[type="button"], input[type="submit"], input[type="search"], input[type="tel"], input[type="email"], input[type="file"], input[type="url"] {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-border-radius: 0px;
-  border-radius: 0;
-	border: 0
+  box-sizing: border-box
 }
 input[type=number] {
   -moz-appearance: textfield
@@ -105,8 +102,6 @@ input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner
 }
 button, input[type="button"], input[type="submit"] {
   -webkit-appearance: none;
-  -webkit-border-radius: 0px;
-  border-radius: 0
 }
 :active {
   -moz-outline-style: none !important;
@@ -117,7 +112,6 @@ button, input[type="button"], input[type="submit"] {
   outline: none !important
 }
 ::-moz-focus-inner {
-  border: 0;
   -moz-outline-style: none !important;
   outline: none !important
 }
