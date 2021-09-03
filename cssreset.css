@@ -98,6 +98,7 @@ input[type=number] {
 }
 input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner-spin-button {
   -webkit-appearance: none;
+  font-family: inherit;
   margin: 0
 }
 button, input[type="button"], input[type="submit"] {
