@@ -1,6 +1,6 @@
 @charset "utf-8";
 /*
-Somethumb v5.7.9
+Somethumb v5.7.91
 Copyright 2020 Somethumb Company LLC. All rights reserved.
 Based on: html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/)
 */
@@ -94,11 +94,11 @@ textarea, select, input, button, input[type="color"], input[type="date"], input[
   box-sizing: border-box
 }
 input[type=number] {
+  font-family: inherit;
   -moz-appearance: textfield
 }
 input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner-spin-button {
   -webkit-appearance: none;
-  font-family: inherit;
   margin: 0
 }
 button, input[type="button"], input[type="submit"] {
