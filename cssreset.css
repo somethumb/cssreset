@@ -94,7 +94,7 @@ textarea, select, input, button, input[type="color"], input[type="date"], input[
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-	background-color: #fff;
+  background: transparent;
   border-radius: 0px 0px 0px 0px;
   -moz-border-radius: 0px 0px 0px 0px;
   -webkit-border-radius: 0px 0px 0px 0px
