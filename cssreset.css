@@ -1,6 +1,6 @@
 @charset "utf-8";
 /*
-Somethumb v5.7.94
+Somethumb v5.7.95
 Copyright 2020 Somethumb Company LLC. All rights reserved.
 Based on: html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/)
 */
@@ -94,7 +94,7 @@ textarea, select, input, button, input[type="color"], input[type="date"], input[
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  background: transparent;
+  background: inherit;
   border-radius: 0px 0px 0px 0px;
   -moz-border-radius: 0px 0px 0px 0px;
   -webkit-border-radius: 0px 0px 0px 0px
