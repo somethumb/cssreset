@@ -1,6 +1,6 @@
 @charset "utf-8";
 /*
-Somethumb v5.8
+Somethumb v6.0
 Copyright 2020 Somethumb Company LLC. All rights reserved.
 Based on: html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/)
 */
@@ -47,8 +47,7 @@ a {
   padding: 0;
   font-size: 100%;
   vertical-align: baseline;
-  background: transparent;
-  display: inline-block
+  background: transparent
 }
 img {
   max-width: 100%;
