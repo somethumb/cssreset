@@ -1,6 +1,6 @@
 # cssreset
 Description: Modern CSS Reset for All Browsers and Mobile Devices  
-Copyright: 2020 Somethumb Company LLC. All rights reserved.  
+Copyright: 2023 Somethumb Company LLC. All rights reserved.  
 Author: Somethumb Company, based initially on html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/)  
 
 /**  
