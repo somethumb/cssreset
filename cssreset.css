@@ -46,10 +46,10 @@ a {
   vertical-align: baseline;
   background: transparent
 }
-img {
+img, svg, video, canvas {
+  display: block;
   max-width: 100%;
   height: auto;
-  display: inline-block
 }
 ins {
   text-decoration: none
